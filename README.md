@@ -63,4 +63,4 @@ demo.json:
 If you'd like to contribute to `jsonexporter`, please fork the repository and use a feature branch. Pull requests are welcome.
 
 ## LICENSE
-This project is licensed under the [MIT License](github.com/CoolerHub/parseJSON#License).
+This project is licensed under the [MIT License](https://github.com/CoolerHub/parseJSON?tab=MIT-1-ov-file).
